@@ -1,0 +1,13 @@
+.titleGroup {
+  display: flex;
+  align-items: center;
+  column-gap: 15px;
+}
+.title {
+  margin: 0;
+}
+.timer {
+  margin: 0;
+  font-size: 20px;
+  text-align: center;
+}

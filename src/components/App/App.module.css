@@ -1,0 +1,7 @@
+.app {
+  display: flex;
+  align-items: center;
+  min-width: 1000px;
+  justify-content: space-between;
+  column-gap: 35px;
+}
